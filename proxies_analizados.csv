@@ -1,0 +1,4 @@
+proxy,ip,port,username,is_valid,latency,real_ip,isp,country,region,city,latitude,longitude
+private-eu.vital-proxies.com:1080:pkg-private2-country-us-session-u1iy73ik-ttl-3600:soeurm735cnpzu3q,private-eu.vital-proxies.com,1080,pkg-private2-country-us-session-u1iy73ik-ttl-3600,Sí,1997,73.56.112.25,"Comcast Cable Communications, LLC",United States,Florida,Lake Worth,26.575,-80.0804
+private-eu.vital-proxies.com:1080:pkg-private2-country-us-session-pjah87mu-ttl-3600:soeurm735cnpzu3q,private-eu.vital-proxies.com,1080,pkg-private2-country-us-session-pjah87mu-ttl-3600,Sí,2021,24.6.219.48,"7922 Comcast Cable Communications, LLC",US,California,Mountain View,37.386,-122.0838
+private-eu.vital-proxies.com:1080:pkg-private2-country-us-session-t5fju2q0-ttl-3600:soeurm735cnpzu3q,private-eu.vital-proxies.com,1080,pkg-private2-country-us-session-t5fju2q0-ttl-3600,Sí,1895,73.174.147.199,COMCAST-7922,United States,Pennsylvania,Bethel Park,40.3214,-80.0378
